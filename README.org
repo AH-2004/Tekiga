@@ -4,4 +4,4 @@
 
 * Tekiga
 
-  ** Tekiga is a specialized tool to convert D2l questions library csv's to images 
+** Tekiga is a specialized tool to convert D2l questions library csv's to images 
