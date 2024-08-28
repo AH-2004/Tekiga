@@ -1,5 +1,5 @@
 #+title: Tekiga
-#+author AH
+#+author: AH
 #+description: D2L Course tests to image generator
 
 * Tekiga
