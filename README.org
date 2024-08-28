@@ -2,4 +2,4 @@
 #+author: AH
 #+description: D2L Course tests to image generator
 
-** Tekiga is a specialized tool to convert D2l questions library csv's to images 
+*** Tekiga is a specialized tool to convert D2l questions library csv's to images 
